@@ -18,14 +18,14 @@ The **HTML** has the following sections:
 
 The **CSS** has styles for each of the following elements:
 
-..* Body
-..* Header, Nav, Section, Aside, and Footer
-..* Article
-..* h1 and p
+1.Body
+2.Header, Nav, Section, Aside, and Footer
+3.Article
+4.h1 and p
 
 ### Installing
-..* Visual Studio/Atom/Sublime Code Editor
-..* Chrome/Mozilla/Safari/Opera Browser
+Visual Studio/Atom/Sublime Code Editor
+Chrome/Mozilla/Safari/Opera Browser
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
