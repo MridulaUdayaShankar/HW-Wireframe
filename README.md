@@ -1,10 +1,10 @@
-#Project title: Wireframe
+# Project title: Wireframe
 
-##Getting Started
+## Getting Started
 
 This is a project to build a web design skeleton using HTML/CSS
 
-##Pre-requisites
+### Pre-requisites
 
 The **HTML** has the following sections: 
 
@@ -23,9 +23,9 @@ The **CSS** has styles for each of the following elements:
 ..*Article
 ..*h1 and p
 
-##Installing
+### Installing
 Visual Studio/Atom/Sublime Code Editor
 Chrome/Mozilla/Safari/Opera Browser
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
