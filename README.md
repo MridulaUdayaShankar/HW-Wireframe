@@ -2,7 +2,9 @@
 
 ## Getting Started
 
-This is a project to build a basic web design skeleton using HTML/CSS
+This is a project to build a basic web design skeleton using HTML/CSS as shown below:
+
+![Easier-Layout-Wireframe](Easier-Layout-Wireframe.png)
 
 ### Pre-requisites
 
